@@ -1,4 +1,4 @@
-# 📜 Formulario de Contacto Vintage
+# 📜 Formulario de Contacto
 
 Este proyecto implementa un formulario de contacto con un diseño **vintage**, utilizando **HTML**, **CSS**, **JavaScript** y pruebas automatizadas con **Python** mediante **Selenium**.
 
